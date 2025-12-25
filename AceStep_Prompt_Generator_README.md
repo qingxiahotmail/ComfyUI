@@ -192,8 +192,8 @@ python -m twine upload dist/*
 
 如果您有任何问题或建议，欢迎通过以下方式联系：
 
-- GitHub Issues: [https://github.com/yourusername/acestep-prompt-generator/issues](https://github.com/yourusername/acestep-prompt-generator/issues)
-- Email: your.email@example.com
+- GitHub Issues: [https://github.com/qingxiahotmail/acestep-prompt-generator/issues](https://github.com/yourusername/acestep-prompt-generator/issues)
+- Email: qingxia@hotmail.com
 
 ## 📱 相关项目
 
